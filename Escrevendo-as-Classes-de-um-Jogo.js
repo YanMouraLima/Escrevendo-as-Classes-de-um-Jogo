@@ -33,6 +33,6 @@ let tipoHeroi ="guerreiro"
 novoHeroi = new heroi(nomeHeroi,idadeHeroi,tipoHeroi) // cria novo objeto, conforme a classe.
 
 //Saída
-
 console.log(`O ${novoHeroi.tipo} atacou usando ${novoHeroi.ataque()}`)
+
 
