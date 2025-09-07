@@ -1,6 +1,6 @@
 // Curso: Formação Lógica de Programação - DIO
 // Projeto: Escrevendo as classes de um jogo
-// Nome: Yan Moura Lima
+// Estudante: Yan Moura Lima
 // Data: 07/09/2025
 
 // Classe com as características de um herói
@@ -35,3 +35,4 @@ novoHeroi = new heroi(nomeHeroi,idadeHeroi,tipoHeroi) // cria novo objeto, confo
 //Saída
 
 console.log(`O ${novoHeroi.tipo} atacou usando ${novoHeroi.ataque()}`)
+
